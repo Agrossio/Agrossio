@@ -1,4 +1,4 @@
-## Hello world!! earth_americas 👋
+## Hello world!! 👋
 
 <!--
 **Agrossio/Agrossio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
