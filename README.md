@@ -37,7 +37,8 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
 ## Contact
 
 <div align="justify">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/matiasabossio/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </div>
 
 <!--
 **Agrossio/Agrossio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
