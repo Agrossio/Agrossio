@@ -13,7 +13,7 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
   Premium Car dealership E-commerce webAPP. Five developers team using SCRUM methodologies.
 
 - [MatTMDB](https://github.com/Agrossio/MatTMDB) **(not yet published)** <br/>
-  Movies and TV Shows web catalogue consuming TMDB’s
+  Movies and TV Shows web catalogue consuming TMDB’s API.
 
 <!--
 **Agrossio/Agrossio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
