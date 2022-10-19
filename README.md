@@ -37,7 +37,9 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
 ## Contact
 
 <div align="justify">
-    <a href="https://www.linkedin.com/in/matiasabossio/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/matiasabossio/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
     </div>
 
 <!--
