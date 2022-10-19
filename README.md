@@ -6,7 +6,7 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
 
 ## Projects
 
-- [Bookings Management App](https://github.com/Agrossio/bookings) -Internship for [Cruce](https://www.e-cruce.com/)<br/>
+- [Bookings Management App](https://github.com/Agrossio/bookings) - Internship for [Cruce](https://www.e-cruce.com/)<br/>
   Bookings Management webAPP for companies with physical offices.
 
 - [Dreamcars](https://github.com/Agrossio/dreamcars)<br/>
@@ -34,7 +34,7 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## Contact
+## Contact Me
 
 <div align="justify">
     <a href="https://www.linkedin.com/in/matiasabossio/" target="_blank">
