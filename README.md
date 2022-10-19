@@ -1,6 +1,6 @@
-## 🌎 Hello world!! 👋
+# 🌎 Hello world!! 👋
 
-My name is Matias Abossio and I'm a Jr Full Stack Developer from Argentina.
+My name is **Matias Abossio** and I'm a **Jr Full Stack Developer** from Argentina.
 
 I've recently graduated from [Plataforma 5](https://www.plataforma5.la/) Coding Bootcamp, adding +800 hours of coding applying **Pair Programming** and **Agile Methodologies**.
 
