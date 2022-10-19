@@ -7,6 +7,7 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
 ## Projects
 
 - [**Bookings Management App**](https://github.com/Agrossio/bookings)
+
   Bookings Management webAPP for companies with physical offices. Five developers team applying SCRUM methodologies.
 
 - [**Dreamcars**](https://github.com/Agrossio/dreamcars)
