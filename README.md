@@ -12,7 +12,7 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
 - [Dreamcars](https://github.com/Agrossio/dreamcars)<br/>
   Premium Car dealership E-commerce webAPP. Five developers team using SCRUM methodologies.
 
-- [MatTMDB](https://github.com/Agrossio/MatTMDB) **(not yet published)** <br/>
+- [MattMDB](https://github.com/Agrossio/MatTMDB) **(not yet published)** <br/>
   Movies and TV Shows web catalogue consuming TMDB’s
 
 <!--
