@@ -2,7 +2,7 @@
 
 My name is **Matias Abossio** and I'm a **Jr Full Stack Developer** from Argentina.
 
-I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **Coding Bootcamp**, adding +800 hours of coding applying **Pair Programming** and **Agile Methodologies**.
+I've recently graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.la/), adding +800 hours of coding applying **Pair Programming** and **Agile Methodologies**.
 
 ## Projects
 
@@ -40,6 +40,8 @@ I've recently graduated from [**Plataforma 5**](https://www.plataforma5.la/) **C
     <a href="https://www.linkedin.com/in/matiasabossio/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <img src="https://img.shields.io/badge/English%20Resume-download-red" />
+    <img src="https://img.shields.io/badge/CV%20en%20espa%C3%B1ol-download-yellowgreen" />
 </div>
 
 <!--
