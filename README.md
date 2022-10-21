@@ -40,12 +40,12 @@ I've recently graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plat
     <a href="https://www.linkedin.com/in/matiasabossio/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    
-    <!-- <img src="https://img.shields.io/badge/English%20Resume-download-red" />
-    <img src="https://img.shields.io/badge/CV%20en%20espa%C3%B1ol-download-yellowgreen" /> -->
 </div>
 
-[English Resume](https://drive.google.com/file/d/1IGnxu01UcO89E-h2Dgk9GlYYe4IHUnTK/view?usp=sharing)
+<!-- <img src="https://img.shields.io/badge/English%20Resume-download-red" />
+    <img src="https://img.shields.io/badge/CV%20en%20espa%C3%B1ol-download-yellowgreen" /> -->
+
+[English Resume](https://drive.google.com/file/d/1IGnxu01UcO89E-h2Dgk9GlYYe4IHUnTK/view?usp=sharing) ||
 [CV en Español](https://drive.google.com/file/d/127-y2Jv4C0dtSVypXMtVFwJQEU2g-Zw7/view?usp=sharing)
 
 <!--
