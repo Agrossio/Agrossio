@@ -1,6 +1,6 @@
 # 🌎 Hello world!! 👋
 
-My name is **Matias Abossio** and I'm a **Jr Full Stack Developer** from Argentina. I'm an Engineer with a 9 years Consuming Goods Industry Background.
+My name is **Matias Abossio**, I'm a **Jr Full Stack Developer** from Argentina and also an Engineer with a 9 years Consuming Goods Industry Background.
 
 I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.la/), adding +800 hours of coding applying **Pair Programming** and **Agile Methodologies**.
 
