@@ -12,7 +12,7 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 - [Dreamcars](https://github.com/Agrossio/dreamcars)<br/>
   Premium Car dealership E-commerce webAPP.
 
-- [MatTMDB](https://github.com/Agrossio/MatTMDB) **(not yet published)** <br/>
+- [MatTMDB](https://github.com/Agrossio/TMDB)<br/>
   Movies and TV Shows web catalogue consuming [TMDB’s API](https://developers.themoviedb.org/4/getting-started).
 
 ## 🛠 Technologies & Tools
