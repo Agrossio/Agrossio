@@ -6,7 +6,7 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 
 ## Projects
 
-- [Portfolio](https://https://www.matiabossio.com.ar/)<br/>
+- [Portfolio](https://www.matiabossio.com.ar/)<br/>
   See all my work. 100% Frontend created with React, CSS, Swiper and React-icons.
 
 - [Bookings Management App](https://github.com/Agrossio/bookings) - Internship for [Cruce](https://www.e-cruce.com/)<br/>
