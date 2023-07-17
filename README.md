@@ -27,6 +27,8 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 ## 🛠 Technologies & Tools
 
  <div align="justify">
+    <img alt="Static Badge" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-black?style=for-the-badge&logo=springboot">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
