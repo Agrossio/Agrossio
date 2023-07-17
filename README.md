@@ -9,6 +9,12 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 - [Portfolio](https://www.matiabossio.com.ar/)<br/>
   See all my work. 100% Frontend created with React, CSS, Swiper and React-icons.
 
+- [PokeChallenge](https://github.com/Agrossio/pokechallenge)<br/>
+  Springboot 3 backend App developed for a Software Engineer interview.
+
+- [MatTMDB](https://github.com/Agrossio/angular_mattmdb)<br/>
+  Angular + Java Springboot Movie & TV Show Catalogue consuming TMDB API. This was a fresh remake of my first PERN proyect.
+
 - [Bookings Management App](https://github.com/Agrossio/bookings) - Internship for [Cruce](https://www.e-cruce.com/)<br/>
   Bookings Management webAPP for companies with physical offices.
 
@@ -49,8 +55,8 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 <!-- <img src="https://img.shields.io/badge/English%20Resume-download-red" />
     <img src="https://img.shields.io/badge/CV%20en%20espa%C3%B1ol-download-yellowgreen" /> -->
 
-[English Resume](https://drive.google.com/file/d/1xj1jvgr2tbsGy_KWAs_9OAaERhWYdJfx/view?usp=share_link) ||
-[CV en Español](https://drive.google.com/file/d/1QzyIJus74Pvm_hyUDlwKXFsGlB0bMYvf/view?usp=share_link)
+[English Resume](https://drive.google.com/file/d/1yZ1ZV0vAJ74czWEvnyX5wROT1mkHskmH/view?usp=drive_link) ||
+[CV en Español](https://drive.google.com/file/d/117LOFvHhus9b1STxcb32g_AX1bDl40ZT/view?usp=drive_link)
 
 <!--
 **Agrossio/Agrossio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
