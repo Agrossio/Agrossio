@@ -12,6 +12,9 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 - [PokeChallenge](https://github.com/Agrossio/pokechallenge)<br/>
   Springboot 3 backend App developed for a Software Engineer interview.
 
+- [GestorDeHoras](https://github.com/Agrossio/GestionHorariosFrontend)<br/>
+  Angular + Java Springboot Management System to track developers worked hours.
+
 - [MatTMDB](https://github.com/Agrossio/angular_mattmdb)<br/>
   Angular + Java Springboot Movie & TV Show Catalogue consuming TMDB API. This was a fresh remake of my first PERN proyect.
 
