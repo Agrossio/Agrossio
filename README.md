@@ -60,8 +60,8 @@ I've graduated from [**Plataforma 5 Coding Bootcamp**](https://www.plataforma5.l
 <!-- <img src="https://img.shields.io/badge/English%20Resume-download-red" />
     <img src="https://img.shields.io/badge/CV%20en%20espa%C3%B1ol-download-yellowgreen" /> -->
 
-[English Resume](https://drive.google.com/file/d/1yZ1ZV0vAJ74czWEvnyX5wROT1mkHskmH/view?usp=drive_link) ||
-[CV en Español](https://drive.google.com/file/d/117LOFvHhus9b1STxcb32g_AX1bDl40ZT/view?usp=drive_link)
+[English Resume](https://drive.google.com/file/d/1EsxbDce-bPhahpjB2IYGaDWAN2RxWCbg/view?usp=sharing) ||
+[CV en Español](https://drive.google.com/file/d/1HLpGZ_C8YMmg-ASBsD_s41ydIJO6vsPE/view?usp=sharing)
 
 <!--
 **Agrossio/Agrossio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
